@@ -1,4 +1,5 @@
 Bomberman-inspired Game
+
 A multiplayer Bomberman-inspired game built using Pygame, with exciting gameplay, custom animations, and smooth sound integration. The game offers a fun two-player experience, complete with power-ups, bomb explosions, and player battles.
 
 Table of Contents
@@ -18,24 +19,18 @@ Installation
 Before running the game, ensure you have Python and Pygame installed.
 
 Step 1: Clone the Repository
-bash
-Копировать
-Редактировать
-git clone https://github.com/your-username/bomberman-game.git
+
+git clone https://github.com/shugyla11/bomberman-game.git
 cd bomberman-game
 Step 2: Install the Required Packages
 Use the following command to install the necessary packages:
 
-bash
-Копировать
-Редактировать
+
 pip install -r requirements.txt
 How to Run the Game
 After installation, run the following command in your terminal:
 
-bash
-Копировать
-Редактировать
+
 python main.py
 Gameplay Instructions
 Player 1 Controls:
@@ -47,9 +42,7 @@ Place Bomb: Right Shift
 The objective of the game is to eliminate your opponent by placing bombs strategically. Collect power-ups to gain an advantage!
 
 Project Structure
-bash
-Копировать
-Редактировать
+
 BombermanGame/  
 ├── assets/           # Images, sprites, and sounds  
 ├── docs/             # Documentation  
